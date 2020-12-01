@@ -11,6 +11,7 @@ The task is to  extract NAME ENTITIES From product descriptions which are multil
 
 <h2>For example<h2/>
 
+
 sentence: Adidas kengät musta Women
 
 name entities:
