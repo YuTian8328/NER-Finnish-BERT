@@ -8,7 +8,8 @@ Model implemented by Pytorch
 The task is to  extract NAME ENTITIES From product descriptions which are multilingual (mainly in Finnish and English)
 <br/>
 <br/>
-## For example
+
+<h2>For example<h2/>
 
 sentence: Adidas kengät musta Women
 
